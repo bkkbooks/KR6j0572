@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0572/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0572/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說無崖際總持法門經
+  identifiers:
+    krp: KR6j0572
+    cbeta: T21n1342
+    cbeta_old_id: T21n1342
+    authorityid: CA0003447
+    json_key: T1342
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1342.xml
+    old_id: T21n1342
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0572_000-T.yaml, hash: 'sha256:324e204168b09e83576d8b0b4ffb5c26845c08c822f80b624351e600ebd827b3'}
+  - {seq: 1, filename: KR6j0572_001-T.yaml, hash: 'sha256:aded431f0b2a8d411f9414a03741e410909a7e449025bb54b37544a3c6f9523d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0572_000-T.markers.yaml, hash: 'sha256:75a6158085ede04e8ceb841f1cc275f3f84f22e19852b9d48807c9244fa68055'}
+  - {seq: 1, role: markers, filename: assets/KR6j0572_001-T.markers.yaml, hash: 'sha256:4594117319f3863c19be0b90f56c76950974a3248847b88125ca4fbac300e4a0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0572_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6809
+  label: 佛說無崖際總持法門經
+  type: juan
+  level: 1
+hash: sha256:64835fbcba678bc84614cbc06a166434a08ccbd503313e1cd00b55f75c4098e6

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0572/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說無崖際總持法門經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1342.xml
+    old_id: T21n1342
+hash: sha256:324e204168b09e83576d8b0b4ffb5c26845c08c822f80b624351e600ebd827b3
