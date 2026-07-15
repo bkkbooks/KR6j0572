@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0572/v1
 canonical_location: https://kanripo.org/bkk/KR6j0572/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說無崖際總持法門經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0572_000.yaml, hash: 'sha256:324e204168b09e83576d8b0b4ffb5c26845c08c822f80b624351e600ebd827b3'}
-  - {seq: 1, filename: KR6j0572_001.yaml, hash: 'sha256:aded431f0b2a8d411f9414a03741e410909a7e449025bb54b37544a3c6f9523d'}
+  - {seq: 1, filename: KR6j0572_001.yaml, hash: 'sha256:fdd0ec6a1cf13388c7695dcf269b074f51511fffacd35c351d04cab4590d4a07'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0572_000.markers.yaml, hash: 'sha256:5cd3e90a1ea63a8a799364f5fcac160b5a1458701d288f38e3afbf1160141203'}
-  - {seq: 1, role: markers, filename: assets/KR6j0572_001.markers.yaml, hash: 'sha256:9f34d58eaaab551125234145d9c617d818bb5aa7e7c8993497f2ba6a0e7e0012'}
+  - {seq: 1, role: markers, filename: assets/KR6j0572_001.markers.yaml, hash: 'sha256:4f3d06aafa2eb5144345f1094688ec5fe1be3b598d42e37e9b2089c301173aa2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 佛說無崖際總持法門經
   type: juan
   level: 1
-hash: sha256:851e3577f446d7df34e3d080a3efd9dadd7800aa9ca2e81e2be03e3e115cac9f
+hash: sha256:7000bdad3cff747bd1fce9fe7abca67d9cb61a017d7659a7dc1f216226f0ec24
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
